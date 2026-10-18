@@ -1,0 +1,14 @@
+[
+  {
+    "report_id": "R-DEMO000001",
+    "case_id": "PS-DEMO00001",
+    "phone_hash": null,
+    "masked_number": "+********4567",
+    "category": "Suspected fraud",
+    "description": "DEMO ONLY: sample allegation; not a real report.",
+    "source_url": "https://example.org/report",
+    "incident_date": "2026-01-01",
+    "status": "unverified",
+    "created_at": "2026-01-01T00:00:00+00:00"
+  }
+]

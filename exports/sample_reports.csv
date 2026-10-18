@@ -1,0 +1,2 @@
+﻿report_id,case_id,phone_hash,masked_number,category,description,source_url,incident_date,status,created_at
+R-DEMO000001,PS-DEMO00001,,+********4567,Suspected fraud,DEMO ONLY: sample allegation; not a real report.,https://example.org/report,2026-01-01,unverified,2026-01-01T00:00:00+00:00
